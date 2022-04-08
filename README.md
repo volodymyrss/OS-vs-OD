@@ -1,8 +1,10 @@
 # OW-vs-OD
 ## process stewardship instead of of data stewardship
 
-* there is only one thing anyone needs to know about data: **how the data was produced**
-* result of data production may cary additional information 
+* there is only one thing anyone needs to know about the data: **how the data was produced**. Since everything about the data derives from the way it was made.
+  * for example, we know that we are measuring the 20-80 keV flux of Crab pulsar, averaged over 2021.
+* this is not true, since the result of data production may contain additional information 
+  * for example, we did not know that the said flux was that many ergscm2 
 
 Sometimes, open data are sufficient.
 Open workflows allow:
