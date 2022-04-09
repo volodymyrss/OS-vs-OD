@@ -6,6 +6,12 @@
 * this is not true, since the result of data production may contain additional information 
   * for example, we did not know that the said flux was that many ergscm2 
 
+Some results can only be qualified by the outcome, not by process.
+E.g. detection. Or impact (citations).
+The outcome should be partially predictable by the process. 
+Partial predictability of the outcome by process is the cornerstone principle of science.
+
+
 Sometimes, open data are sufficient.
 Open workflows allow:
 * repeat the analysis exactly
