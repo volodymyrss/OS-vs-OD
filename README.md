@@ -18,6 +18,8 @@ The outcome should be partially predictable by the process.
 |**similar process**|reproducibility|repeatability|
 
 
+* Computing OW produces new relations. We can describe them in odakb
+* OW is described as function, and is sufficient to predict new features somewhat
 
 Sometimes, open data are sufficient.
 Open workflows allow:
