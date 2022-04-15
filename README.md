@@ -20,6 +20,7 @@ The outcome should be partially predictable by the process.
 
 * Computing OW produces new relations. We can describe them in odakb
 * OW is described as function, and is sufficient to predict new features somewhat
+* Structure of G can be used to explain
 
 Sometimes, open data are sufficient.
 Open workflows allow:
